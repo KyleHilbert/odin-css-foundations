@@ -1,0 +1,22 @@
+* {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd {
+  background-color: lightpink;
+}
+
+.even#not4 {
+  color: blue;
+  font-size: 36px;
+}
+
+.odd#is3 {
+  font-size: 24px;
+}
+
+.even#is4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
